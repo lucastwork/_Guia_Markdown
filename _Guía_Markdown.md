@@ -75,8 +75,6 @@ Puede anidar listas de varios niveles de profundidad y combinarlos:
 * Primer nivel lista desordenada
     1. Segundo nivel lista  desordenada
 ````
-<br />
-<br />
 
 # Avanzado
 
@@ -141,9 +139,6 @@ Sin embargo, hay un truco que puede usar al escribir tablas Markdown con una fue
 Una línea que comienza con una pestaña indica un bloque de código. Debido a esto, actualmente no es posible usar una pestaña de retorno más para indicar un nuevo párrafo En su lugar, utilice dos retornos para separar párrafos.
 
 >Cuando desee insertar una `<br />` etiqueta de ruptura con Markdown, finalice una línea con dos o más espacios y luego escriba return.
-
-<br />
-<br />
 
 ## 7. Reglas horizontales
 Puede agregar un salto temático que estará representado por una línea divisoria `(<hr>)` cuando se exporta a HTML. Para hacerlo, agregue tres o más asteriscos `( *)`, guiones `( -)` o guiones bajos `( _)` en una línea por sí mismos, opcionalmente separados por espacios. Por ejemplo:
