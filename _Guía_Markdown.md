@@ -12,7 +12,7 @@ MarkDown es un lenguaje de marcado ligero usado para agregar elementos de format
 [Linkedin](https://www.linkedin.com/in/lucastwork/)
 
 
-# ==Sintaxis básica==
+# Sintaxis básica
 
 ## 1. Encabezados 
 Puede utilizar hasta seis niveles escribiendo `#` al comienzo de una línea, el número de hashtags define la jerarquía del encabezado.
@@ -41,7 +41,7 @@ Escriba `>` más un espacio (como el correo electrónico):
 > Bloque de textos citados
 >> Texto citado dentro de una citación
 ```
-# ==Listas==
+# Listas
 
 ## 1. Listas numéricas
 Escriba `1.` luego un espacio. Se puede utilizar cualquier número (seguido de un punto y un espacio) y los elementos de la lista se ordenarán desde 1 cuando se exporten.
@@ -78,7 +78,7 @@ Puede anidar listas de varios niveles de profundidad y combinarlos:
 <br />
 <br />
 
-# ==Avanzado==
+# Avanzado
 
 ## 1. Enlaces
 Cree un enlace rodeando el texto del enlace entre corchetes, seguido inmediatamente por la URL entre paréntesis:
@@ -94,7 +94,7 @@ Se admiten URL locales y web. Markdown utiliza la siguiente sintaxis para las im
 ![](http://ejemplo.com/imagen.jpg)
 ![](./imagen.jpg)
 ```
-==Nota:== la sintaxis de la imagen de Markdown y las reglas de nombre de archivo de imagen HTML son diferentes de los bloques de contenido. Al usar imágenes locales, deben estar en una carpeta agregada como ubicación de biblioteca. 
+Nota: la sintaxis de la imagen de Markdown y las reglas de nombre de archivo de imagen HTML son diferentes de los bloques de contenido. Al usar imágenes locales, deben estar en una carpeta agregada como ubicación de biblioteca. 
 
 ## 3. Código 
 Puede marcar el código en línea usando comillas invertidas `(``)`, o agregar un bloque de código agregando al menos cuatro espacios al comienzo de una línea:
@@ -162,7 +162,7 @@ Markdown no tiene una sintaxis oficial para los comentarios. Dado que HTML es co
 ## 10. Caracteres de formato de "escape"
 Si desea escribir un carácter de formato y que Writer lo trate como texto, no como formato, escriba primero una barra invertida `\`. Este medio `\*`, `*`, `\_` , `_`, etc. Escapar no es necesario en los bloques de código.
 
-# ==Editores de texto==
+# Editores de texto
 La mejor manera de comenzar con Markdown es usarlo, eso es más fácil que nunca gracias a una variedad de herramientas gratuitas. Ni siquiera necesitas descargar nada, hay varios editores en línea que puede utilizar. [Dilinger](https://dillinger.io/) es uno de los mejores editores de Markdown en línea, solo entre al sitio y comience a escribir en el panel izquierdo, aparecerá una vista previa del documento renderizado en el panel derecho. 
 
 *Algunas otras alternativas para Desktops incluyendo aplicaciones para cualquier sistema operativo puedes encontrarlas en la tienda [SnapStore](https://snapcraft.io/).*
