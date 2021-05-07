@@ -1,6 +1,6 @@
 _Guía_Markdown
 
-![external-content.duckduckgo.com.png](md.png)
+![external-content.duckduckgo.com.png](/assets/md.png)
 
 MarkDown es un lenguaje de marcado ligero usado para agregar elementos de formato a documentos de texto sin formato. **MarkDown**, es ahora uno de los lenguajes de marcado más populares del mundo. 
 
@@ -133,7 +133,7 @@ Para hacer una tabla, use caracteres de barra vertical para denotar celdas. Comi
 
 Sin embargo, hay un truco que puede usar al escribir tablas Markdown con una fuente monoespaciada. Puede fingir el ancho de columna correcto agregando caracteres de espacio para alinear la tabla:
 
-![table.png](table.png)
+![table.png](/assets/table.png)
 
 ## 6. Separación de párrafos
 Una línea que comienza con una pestaña indica un bloque de código. Debido a esto, actualmente no es posible usar una pestaña de retorno más para indicar un nuevo párrafo En su lugar, utilice dos retornos para separar párrafos.
