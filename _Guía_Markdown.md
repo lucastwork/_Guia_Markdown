@@ -4,7 +4,7 @@ _Guía_Markdown
 
 MarkDown es un lenguaje de marcado ligero usado para agregar elementos de formato a documentos de texto sin formato. **MarkDown**, es ahora uno de los lenguajes de marcado más populares del mundo. 
 
-*Esta es mi guía personal de **MarkDown**, conceptos básicos y de uso cotidiano ==nada complicado==.*
+*Esta es mi guía personal de **MarkDown**, conceptos básicos y de uso cotidiano "nada complicado".*
 
 > *Att: Luis A. Castillo UI/UX Designer.*
 
